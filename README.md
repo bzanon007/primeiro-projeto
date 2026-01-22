@@ -17,4 +17,4 @@ Abra os arquivos `.ALG` no Visualg e execute.
 ---
 
 Feito por [Bernardo Zanon]  
-[Bernardo Zanon]([link_do_seu_linkedin](https://www.linkedin.com/in/bernardo-zanon-550026359/?trk=opento_sprofile_topcard))
+[Bernardo Zanon](https://www.linkedin.com/in/bernardo-zanon-550026359/)
