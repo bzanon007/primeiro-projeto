@@ -1,10 +1,10 @@
-algoritmo "É Primo ou Não?!"
+algoritmo "Ã‰ Primo ou NÃ£o?!"
 var
    n, c, p: inteiro
 inicio
       p <- 0
       c <- 1
-      escreva("digite um número: ")
+      escreva("digite um nÃºmero: ")
       leia(n)
              repita
                    se (n % c = 0)entao
@@ -13,8 +13,8 @@ inicio
                    c <- c + 1
              ate (c>n)
       se (p>2) entao
-         escreval("o número",n," não é primo!")
+         escreval("o nÃºmero",n," nÃ£o Ã© primo!")
       senao
-           escreval("o número",n," é primo!")
+           escreval("o nÃºmero",n," Ã© primo!")
       FimSe
 fimalgoritmo
